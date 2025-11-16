@@ -1,0 +1,21 @@
+.topic{
+    text-align: center;
+
+}
+.block1{
+    background-color: aqua;
+
+}
+.inline1{
+    background-color: rgba(166, 96, 232, alpha);
+    text-align: right;
+}
+.block2{
+    display: inline;
+    background-color: bisque;
+    text-align: center;
+    border-bottom: 3px solid red;
+}
+.block3{
+    text-align: center;
+}
